@@ -6,4 +6,4 @@
 - example from https://codepen.io/seanseansean/pen/EaBZEY
 - DEMO : https://kocopalm.net/cdn/point-cloud/index.html
 
-<img src="./capture.png">
+<img src="../captures/point-cloud.png">
